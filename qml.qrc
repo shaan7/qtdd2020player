@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>CurrentMedia.qml</file>
+        <file>CurrentMediaDesign.ui.qml</file>
+        <file>MediaInfo.qml</file>
+        <file>MediaInfoDesign.ui.qml</file>
+        <file>cover-art.jpg</file>
+        <file>cover-art-2.jpg</file>
+        <file>Library.qml</file>
+        <file>LibraryDesign.ui.qml</file>
+        <file>helpers.js</file>
+        <file>imports/Helpers/Helpers.qml</file>
+        <file>imports/Helpers/qmldir</file>
+        <file>LibraryMediaDelegate.qml</file>
+        <file>LibraryMediaDelegateDesign.ui.qml</file>
+        <file>empty-playlist.png</file>
+    </qresource>
+</RCC>
